@@ -9,7 +9,6 @@ public class ex215 {
 		// TODO Auto-generated method stub
 		quesitoA();
 		System.out.println("");
-		Scanner s = new Scanner(System.in);
 		quesitoB();
 	}
 	
@@ -26,6 +25,6 @@ public class ex215 {
 		System.out.println(2+" "+3+" "+4);
 		System.out.println(3+" "+4+" "+5);
 
-}
+	}
 
 }
